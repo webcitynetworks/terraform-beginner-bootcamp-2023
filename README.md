@@ -5,7 +5,7 @@
 This project is going to utilize semantic versioning for its tagging.
 [semver.org](https://semver.org/)
 
-The general format:
+The general format :mage:
 
 **MAJOR.MINOR.PATCH**, eg. `1.0.1`
 
